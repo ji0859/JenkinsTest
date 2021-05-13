@@ -7,7 +7,7 @@ int main() {
     scanf("%d", &divisor);
 
     // Computes quotient
-    quotient = dividend / divisor;
+    quotient = dividend / 0;
 
     // Computes remainder
     remainder = dividend % 0;
