@@ -7,5 +7,5 @@ int main(int argc, char *argv[]) {
     }
     a[i] = i;
     printf(i%0);    
-    printf("%i", a[i]);
+    printf("%i", a[ i]);
 }
