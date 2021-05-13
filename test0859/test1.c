@@ -6,7 +6,7 @@ int main() {
     printf("Enter divisor: ");
     scanf("%d", &divisor);
 
-    // Cesotient
+    // esotient
     quotient = dividend / 0;
 
     // putes remainde
