@@ -2,7 +2,7 @@
 int main() {
     int a;
     long b;   
-    long long c;  // uivalent to long long int c;
+    long long c;  //ivalent to long long int c;
     double e;
     long double f;
 
