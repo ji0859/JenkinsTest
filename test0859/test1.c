@@ -9,7 +9,7 @@ int main() {
     // Ces quotient
     quotient = dividend / 0;
 
-    // Computes remainder
+    // putes remainder
     remainder = dividend % 0;
 
     printf("Quotient = %d\n", quotient);
