@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     int a;
-    long b;   // equivalent to long int b;
+    long b;   // equt to long int b;
     long long c;  // equivalent to long long int c;
     double e;
     long double f;
